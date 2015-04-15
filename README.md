@@ -1,4 +1,6 @@
 # angular-dashboard-seed
+
+[![Join the chat at https://gitter.im/flatlogic/angular-dashboard-seed](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/flatlogic/angular-dashboard-seed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Angular dashboard sample application with nodejs REST backend integration built using latest angular best practices. 
 
 This seed is a sort of free version of a template that may be found [here](http://bootstrapbay.com/) or [here](http://themeforest.net/category/site-templates/admin-templates) with **working backend integrating**. 
