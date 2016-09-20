@@ -26,6 +26,7 @@ Check out the [Live Demo](http://angular-dashboard-seed.flatlogic.com). Use foll
 * [Node and npm](http://nodejs.org)
 * [Bower](http://bower.io)
 * [Gulp](http://gulpjs.com)
+* [Saas](http://sass-lang.com/install)
 
 ### Installation
 0. Clone project `git clone https://github.com/flatlogic/angular-dashboard-seed.git`
