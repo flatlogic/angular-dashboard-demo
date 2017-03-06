@@ -51,7 +51,7 @@
     "gulp-karma": "~0.0.4",
     "gulp-load-plugins": "~0.7.1",
     "gulp-minify-html": "~0.1.7",
-    "gulp-ng-annotate": "~0.3.6",
+    "gulp-ng-annotate": "~0.5.2",
     "gulp-nodemon": "^1.0.5",
     "gulp-plumber": "^0.6.6",
     "gulp-protractor": "~0.0.11",
